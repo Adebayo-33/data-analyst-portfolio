@@ -14,8 +14,9 @@ I use data to uncover insights and support business decisions.
 ##  Featured Projects
 
  1. Revenue Analysis
-**Focus: Visual clarity, business impact,and user-friendly design
-**Tools: Power BI,DAX,Power Query 
+* Focus: Visual clarity, business impact,and user-friendly design.
+
+* Tools: Power BI,DAX,Power Query 
 **Key Insights:
 - #112K+ in total revenue
 - 3,547 coffee orders across 8 product
